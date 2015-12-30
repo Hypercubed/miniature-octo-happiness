@@ -1,0 +1,22 @@
+{
+  "name": "miniature-octo-happiness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypercubed/miniature-octo-happiness.git"
+  },
+  "author": "J. Harshbarger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hypercubed/miniature-octo-happiness/issues"
+  },
+  "homepage": "https://github.com/Hypercubed/miniature-octo-happiness#readme",
+  "devDependencies": {
+    "motivate": "^0.2.1"
+  }
+}
