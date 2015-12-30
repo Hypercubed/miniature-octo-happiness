@@ -1,11 +1,5 @@
 # miniature-octo-happiness
 
-## Installation
-
-```sh
-> npm install Hypercubed/miniature-octo-happiness
-```
-
 ## Usage
 
 ```
