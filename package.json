@@ -19,7 +19,7 @@
     "url": "https://github.com/Hypercubed/miniature-octo-happiness/issues"
   },
   "homepage": "https://github.com/Hypercubed/miniature-octo-happiness#readme",
-  "devDependencies": {
+  "dependencies": {
     "motivate": "^0.2.1"
   }
 }
