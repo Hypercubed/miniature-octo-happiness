@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var motivate = require('motivate');
 
 var quote = motivate();
